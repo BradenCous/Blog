@@ -117,7 +117,7 @@ body, html {
 .dropdown:hover .dropdown_content {
     display: flex;
     flex-direction: column;
-    background-color: none;
+    
     justify-content: space-between;
 }
 
@@ -128,16 +128,6 @@ body, html {
     margin: auto;
 }
 
-/* 
-    ----------------------------------------------
-*/
-
-
-/* .resultsFrame {
-    width: 90%;
-    height: 1000px;
-   
-} */
 
 
 
